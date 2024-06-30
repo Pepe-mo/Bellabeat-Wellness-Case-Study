@@ -1,6 +1,7 @@
 Bellabeat project
 ================
 Pepe Nwahizu
+
 June 21, 2024
 
 # Case Study: How do Consumers Use Non-Bellabeat smart device
@@ -9,7 +10,7 @@ June 21, 2024
 
 Business Task: The business task is to conduct a comprehensive analysis
 of smart device usage data for Fitbit. The goal is to extract actionable
-insights that can inform and enhance the Bellabeat’s marketing strategy,
+insights that can inform and enhance Bellabeat’s marketing strategy,
 thereby driving growth and increasing user engagement and retention.
 
 Key Stakeholders: Urška Sršen - Co-founder and Chief Creative Officer of
