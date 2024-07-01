@@ -8,7 +8,7 @@ Date: June 27, 2024
 
 [Tableau Dashboard](https://public.tableau.com/shared/DJYMPNRCJ?:display_count=n&:origin=viz_share_link)
 
-[Tableau Data Story Presentation]([url](https://public.tableau.com/shared/69D2CHRN8?:display_count=n&:origin=viz_share_link)
+[Tableau Data Story Presentation](https://public.tableau.com/shared/69D2CHRN8?:display_count=n&:origin=viz_share_link)
 
 
 The case study will be following the six steps of the data analysis process 
